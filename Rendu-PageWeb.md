@@ -1,4 +1,4 @@
-[<<< EPFL Semaine ENAC - Modèles Basés-Agents](http://epfl-agentbased-2014.github.io/Cours)
+[<<< EPFL Semaine ENAC - Modèles Basés-Agents](http://epfl-agentbased-2014.github.io/)
 
 **Résumé**
 
